@@ -27,12 +27,12 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.BasicContent
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.CompoundButton
 import android.widget.RadioGroup
 import android.widget.Switch
+import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.R
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAMoveOverEventMessageModel
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*

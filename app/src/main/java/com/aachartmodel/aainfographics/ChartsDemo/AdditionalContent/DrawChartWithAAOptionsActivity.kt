@@ -27,8 +27,8 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 
-import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAChartView
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.ChartOptionsComposer.Companion.customChartLegendStyle
@@ -81,12 +81,12 @@ class DrawChartWithAAOptionsActivity : AppCompatActivity() {
             "configureTheMirrorColumnChart" -> return configureTheMirrorColumnChart()
             "configureDoubleYAxisChartOptions" -> return configureDoubleYAxisChartOptions()
             "configureTripleYAxesMixedChart" -> return configureTripleYAxesMixedChart()
-            "customLineChartDataLabelsFormat"-> return customLineChartDataLabelsFormat()
-            "configureDoubleYAxesAndColumnLineMixedChart"-> return configureDoubleYAxesAndColumnLineMixedChart()
-            "configureDoubleYAxesMarketDepthChart"-> return configureDoubleYAxesMarketDepthChart()
-            "customAreaChartTooltipStyleLikeHTMLTable"-> return customAreaChartTooltipStyleLikeHTMLTable()
-             "simpleGaugeChart" -> return simpleGaugeChart()
-             "gaugeChartWithPlotBand" -> return gaugeChartWithPlotBand()
+            "customLineChartDataLabelsFormat" -> return customLineChartDataLabelsFormat()
+            "configureDoubleYAxesAndColumnLineMixedChart" -> return configureDoubleYAxesAndColumnLineMixedChart()
+            "configureDoubleYAxesMarketDepthChart" -> return configureDoubleYAxesMarketDepthChart()
+            "customAreaChartTooltipStyleLikeHTMLTable" -> return customAreaChartTooltipStyleLikeHTMLTable()
+            "simpleGaugeChart" -> return simpleGaugeChart()
+            "gaugeChartWithPlotBand" -> return gaugeChartWithPlotBand()
         }
         return configureAAPlotBandsForChart()
     }

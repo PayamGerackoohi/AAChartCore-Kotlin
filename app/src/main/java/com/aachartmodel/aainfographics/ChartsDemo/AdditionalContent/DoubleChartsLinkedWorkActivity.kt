@@ -3,11 +3,10 @@ package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.R
-
 
 class DoubleChartsLinkedWorkActivity : AppCompatActivity(),
     AAChartView.AAChartViewCallBack {
@@ -89,16 +88,18 @@ class DoubleChartsLinkedWorkActivity : AppCompatActivity(),
             .title("")
             .yAxisTitle("")
             .categories(gradientColorNamesArr)
-            .colorsTheme(gradientColorArr as Array<Any> )
+            .colorsTheme(gradientColorArr as Array<Any>)
             .xAxisReversed(true)
             .yAxisReversed(true)
             .inverted(true)
             .legendEnabled(false)
             .touchEventEnabled(true)
-            .series(arrayOf(
+            .series(
+                arrayOf(
                     AASeriesElement()
                         .name("Tokyo")
-                        .data(arrayOf(
+                        .data(
+                            arrayOf(
                                 211, 183, 157, 133, 111, 91, 73, 57, 43, 31, 21, 13,
                                 211, 183, 157, 133, 111, 91, 73, 57, 43, 31, 21, 13
                             )
@@ -118,12 +119,36 @@ class DoubleChartsLinkedWorkActivity : AppCompatActivity(),
             .yAxisTitle("")
             .legendEnabled(false)
             .yAxisGridLineWidth(0f)
-            .series(arrayOf(
+            .series(
+                arrayOf(
                     AASeriesElement()
                         .name("Tokyo")
-                        .data(arrayOf(
-                            149.9, 171.5, 106.4, 129.2, 144.0, 176.0, 135.6, 188.5, 276.4, 214.1, 95.6, 54.4,
-                            149.9, 171.5, 106.4, 129.2, 144.0, 176.0, 135.6, 188.5, 276.4, 214.1, 95.6, 54.4
+                        .data(
+                            arrayOf(
+                                149.9,
+                                171.5,
+                                106.4,
+                                129.2,
+                                144.0,
+                                176.0,
+                                135.6,
+                                188.5,
+                                276.4,
+                                214.1,
+                                95.6,
+                                54.4,
+                                149.9,
+                                171.5,
+                                106.4,
+                                129.2,
+                                144.0,
+                                176.0,
+                                135.6,
+                                188.5,
+                                276.4,
+                                214.1,
+                                95.6,
+                                54.4
                             )
                         )
                 )
@@ -151,7 +176,6 @@ class DoubleChartsLinkedWorkActivity : AppCompatActivity(),
     }
 
     override fun chartViewDidFinishLoad(aaChartView: AAChartView) {
-
     }
 
     override fun chartViewMoveOverEventMessage(
@@ -163,12 +187,13 @@ class DoubleChartsLinkedWorkActivity : AppCompatActivity(),
         val mainHandler = Handler(Looper.getMainLooper())
         mainHandler.post {
             //已在主线程中，可以更新UI
-            val aaSeriesElementsArr: Array<AASeriesElement> = arrayOf<AASeriesElement>(
+            val aaSeriesElementsArr: Array<AASeriesElement> = arrayOf(
                 AASeriesElement()
                     .data(configureSeriesDataArray() as Array<Any>)
             )
             aaChartView2?.aa_onlyRefreshTheChartDataWithChartOptionsSeriesArray(
                 aaSeriesElementsArr
             )
-        }    }
+        }
+    }
 }

@@ -35,14 +35,13 @@ package com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator
 
 import android.content.Context
 import android.os.Build
-import android.support.v7.app.AlertDialog
 import android.util.AttributeSet
 import android.webkit.*
+import androidx.appcompat.app.AlertDialog
 import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
 import com.google.gson.Gson
 import com.google.gson.internal.LinkedTreeMap
 import java.util.*
-
 
 class AAMoveOverEventMessageModel {
     var name: String? = null
@@ -52,8 +51,6 @@ class AAMoveOverEventMessageModel {
     var offset: LinkedTreeMap<*, *>? = null
     var index: Int? = null
 }
-
-
 class AAChartView : WebView {
     interface AAChartViewCallBack {
         fun chartViewDidFinishLoad(aaChartView: AAChartView)
