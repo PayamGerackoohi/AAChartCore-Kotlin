@@ -30,8 +30,8 @@ package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 import android.os.Bundle
 import android.os.Handler
 import androidx.appcompat.app.AppCompatActivity
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
+import com.payam1991gr.aachartlib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.R
 import kotlin.math.cos
 import kotlin.math.sin

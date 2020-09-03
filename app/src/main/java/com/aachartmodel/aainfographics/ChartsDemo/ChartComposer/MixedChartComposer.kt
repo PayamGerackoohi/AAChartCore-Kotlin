@@ -27,12 +27,11 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AADataLabels
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAMarker
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAPie
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAStyle
-import java.util.*
+import com.payam1991gr.aachartlib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAOptionsModel.AADataLabels
+import com.payam1991gr.aachartlib.AAOptionsModel.AAMarker
+import com.payam1991gr.aachartlib.AAOptionsModel.AAPie
+import com.payam1991gr.aachartlib.AAOptionsModel.AAStyle
 
 class MixedChartComposer {
 companion object {

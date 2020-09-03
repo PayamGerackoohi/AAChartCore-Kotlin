@@ -35,8 +35,8 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.*
+import com.payam1991gr.aachartlib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAOptionsModel.*
 
 class ChartOptionsComposer {
     companion object {

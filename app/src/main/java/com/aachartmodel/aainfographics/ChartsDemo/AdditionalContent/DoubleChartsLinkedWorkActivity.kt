@@ -4,8 +4,8 @@ import android.os.Bundle
 import android.os.Handler
 import android.os.Looper
 import androidx.appcompat.app.AppCompatActivity
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
+import com.payam1991gr.aachartlib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.R
 
 class DoubleChartsLinkedWorkActivity : AppCompatActivity(),

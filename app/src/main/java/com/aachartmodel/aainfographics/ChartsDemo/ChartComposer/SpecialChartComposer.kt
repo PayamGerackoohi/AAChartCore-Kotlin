@@ -27,11 +27,11 @@
  */
 package com.aachartmodel.aainfographics.ChartsDemo.ChartComposer
 
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AADataLabels
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAStyle
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AATooltip
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAWaterfall
+import com.payam1991gr.aachartlib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAOptionsModel.AADataLabels
+import com.payam1991gr.aachartlib.AAOptionsModel.AAStyle
+import com.payam1991gr.aachartlib.AAOptionsModel.AATooltip
+import com.payam1991gr.aachartlib.AAOptionsModel.AAWaterfall
 import java.util.*
 
 object SpecialChartComposer{

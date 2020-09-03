@@ -34,8 +34,8 @@ import android.widget.RadioGroup
 import android.widget.Switch
 import androidx.appcompat.app.AppCompatActivity
 import com.aachartmodel.aainfographics.R
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAMoveOverEventMessageModel
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.*
+import com.payam1991gr.aachartlib.AAChartCreator.AAMoveOverEventMessageModel
+import com.payam1991gr.aachartlib.AAChartCreator.*
 import com.google.gson.Gson
 import kotlinx.android.synthetic.main.activity_common_chart.*
 

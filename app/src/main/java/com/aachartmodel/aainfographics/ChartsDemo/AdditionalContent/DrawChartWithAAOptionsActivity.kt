@@ -29,8 +29,8 @@ package com.aachartmodel.aainfographics.ChartsDemo.AdditionalContent
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAChartCreator.AAChartView
-import com.aachartmodel.aainfographics.AAInfographicsLib.AAOptionsModel.AAOptions
+import com.payam1991gr.aachartlib.AAChartCreator.AAChartView
+import com.payam1991gr.aachartlib.AAOptionsModel.AAOptions
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.ChartOptionsComposer.Companion.customChartLegendStyle
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.ChartOptionsComposer.Companion.configureAAPlotBandsForChart
 import com.aachartmodel.aainfographics.ChartsDemo.ChartComposer.ChartOptionsComposer.Companion.configureAAPlotLinesForChart
