@@ -10,122 +10,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f653d3fe-ab26-4ccf-ba8a-d386c49e6db4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_experimental_1_0_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_3_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_3_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_2_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_3_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_3_0_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/aachartlib.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/consumer-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/proguard-rules.pro" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/src/androidTest/java/com/payam1991gr/aachartlib/ExampleInstrumentedTest.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/src/main/AndroidManifest.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/src/main/res/values/colors.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/src/main/res/values/strings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aachartlib/src/test/java/com/payam1991gr/aachartlib/ExampleUnitTest.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_2_0_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_2_0_1_jar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_3_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_1_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_ktx_1_3_1_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_3_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_ext_junit_1_1_1_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_aar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager2_viewpager2_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_aar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_2_0_aar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAChartCreator/AAChartModel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAChartModel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAChartCreator/AAChartView.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAChartView.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAChartCreator/AAOptionsConstructor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAOptionsConstructor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAChartCreator/AASeriesElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AASeriesElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAAnimation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAAnimation.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAChart.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAChart.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AACrosshair.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AACrosshair.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AADataLabels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AADataLabels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AALabel.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AALabel.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AALabels.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AALabels.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AALegend.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AALegend.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAMarker.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAMarker.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAOptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAOptions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAPane.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAPane.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAPlotBandsElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAPlotBandsElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAPlotLinesElement.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAPlotLinesElement.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAPlotOptions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAPlotOptions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAScrollablePlotArea.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAScrollablePlotArea.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AASeries.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AASeries.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAShadow.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAShadow.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAStates.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAStates.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAStyle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAStyle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AASubtitle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AASubtitle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AATitle.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AATitle.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AATooltip.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AATooltip.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAWaterfall.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAWaterfall.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAXAxis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAXAxis.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AAOptionsModel/AAYAxis.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAOptionsModel/AAYAxis.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AATools/AAColor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AATools/AAColor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AATools/AAGradientColor.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AATools/AAGradientColor.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/AAInfographicsLib/AATools/AAJSStringPurer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AATools/AAJSStringPurer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DrawChartWithAAOptionsActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DrawChartWithAAOptionsActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/JSFormatterFunctionActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/JSFormatterFunctionActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/OnlyRefreshChartDataActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/OnlyRefreshChartDataActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/CommonChartActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/CommonChartActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/CustomStyleChartActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/CustomStyleChartActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/MixedChartActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/MixedChartActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/SpecialChartActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/BasicContent/SpecialChartActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/ChartOptionsComposer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/ChartOptionsComposer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/CustomStyleChartComposer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/CustomStyleChartComposer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/CustomTooltipComposer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/CustomTooltipComposer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/MixedChartComposer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/MixedChartComposer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/SpecialChartComposer.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/ChartComposer/SpecialChartComposer.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_common_chart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_common_chart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_style_chart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_style_chart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_tooltip_with_jsfunction.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_custom_tooltip_with_jsfunction.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_double_charts_linked_work.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_double_charts_linked_work.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_draw_chart_with_aaoptions.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_draw_chart_with_aaoptions.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_mixed_chart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_mixed_chart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_only_refresh_chart_data.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_only_refresh_chart_data.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_special_chart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_special_chart.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -149,64 +36,31 @@
       </state>
     </system>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AAChartCore-Kotlin" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/aachartlib/src/androidTest/java/com/payam1991gr/aachartlib/ExampleInstrumentedTest.kt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" selection-start-line="24" selection-end-line="24" />
+              <folding>
+                <element signature="e#36#228#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/build.gradle">
+        <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="391">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
               <folding>
-                <element signature="e#70#344#0" expanded="true" />
+                <element signature="e#146#338#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAChartView.kt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-              <folding>
-                <element signature="e#1363#1668#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/aachartlib/build.gradle">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -246,9 +100,10 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/aachartlib/build.gradle" />
         <option value="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/aachartlib/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt" />
       </list>
     </option>
   </component>
@@ -284,6 +139,51 @@
               <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="payam1991gr" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="aachartlib" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="payam1991gr" type="462c0819:PsiDirectoryNode" />
+              <item name="aachartlib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -375,7 +275,45 @@
               <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aachartmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="androidTest" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aachartmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="aainfographics" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
@@ -383,27 +321,51 @@
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="res" type="462c0819:PsiDirectoryNode" />
-              <item name="values" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
               <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="gradle" type="462c0819:PsiDirectoryNode" />
-              <item name="wrapper" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aachartmodel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AAChartCore-Kotlin" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AAChartCore-Kotlin" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="app" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="aachartmodel" type="462c0819:PsiDirectoryNode" />
+              <item name="aainfographics" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -517,15 +479,15 @@
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Build Variants" sideWeight="0.5005225" side_tool="true" weight="0.22710623" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.22710623" />
-      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" sideWeight="0.49947754" visible="true" weight="0.22710623" />
+      <window_info id="Structure" order="2" sideWeight="0.5005225" side_tool="true" weight="0.22710623" />
       <window_info id="Image Layers" order="3" />
       <window_info id="Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Resources Explorer" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Favorites" order="7" sideWeight="0.5005225" side_tool="true" weight="0.22710623" />
       <window_info anchor="bottom" id="Run" />
       <window_info anchor="bottom" id="Logcat" weight="0.3291536" />
       <window_info anchor="bottom" id="Android Profiler" />
@@ -546,20 +508,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/aachartmodel/aainfographics/ExampleUnitTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="11" column="6" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/5ced732566e368c062583722e89e05d0/constraintlayout-1.1.3/jars/classes.jar!/androidx/constraintlayout/widget/ConstraintLayout.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -774,26 +722,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#70#344#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAChartView.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
-          <folding>
-            <element signature="e#1363#1668#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -836,6 +764,13 @@
       </provider>
       <provider editor-type-id="android-designer2" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/aachartlib/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -843,10 +778,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/aachartlib/build.gradle">
+    <entry file="file://$PROJECT_DIR$/aachartlib/src/main/java/com/payam1991gr/aachartlib/AAChartCreator/AAChartView.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        <state relative-caret-position="260">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="e#1363#1668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/aachartmodel/aainfographics/ChartsDemo/AdditionalContent/DoubleChartsLinkedWorkActivity.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#70#344#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -860,7 +808,37 @@
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/aachartmodel/aainfographics/ExampleUnitTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#41#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aachartlib/src/androidTest/java/com/payam1991gr/aachartlib/ExampleInstrumentedTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#36#228#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/aachartmodel/aainfographics/ExampleInstrumentedTest.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#146#338#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
